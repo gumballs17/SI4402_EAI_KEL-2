@@ -10,7 +10,7 @@ const contents = document.querySelector("#content-list");
 const title = document.querySelector(".card-title");
 const fetchHeader = {
     headers: {
-        'X-Auth-Token': ApiKey
+        'X-Auth-Token': ApiKey,
     }
 };
 
