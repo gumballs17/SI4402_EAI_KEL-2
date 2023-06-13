@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "brand": "Samsung",
+      "model": "Galaxy S22",
+      "year": 2022,
+      "color": "Phantom Black",
+      "price": 999,
+      "weight": "163g"
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "model": "Galaxy S22 Ultra",
+      "year": 2022,
+      "color": "Phantom Silver",
+      "price": 1299,
+      "weight": "229g"
+    },
+    {
+      "id": 3,
+      "brand": "Samsung",
+      "model": "Galaxy Note 23",
+      "year": 2023,
+      "color": "Mystic Bronze",
+      "price": 1399,
+      "weight": "212g"
+    },
+    {
+      "id": 4,
+      "brand": "Samsung",
+      "model": "Galaxy Z Flip 4",
+      "year": 2022,
+      "color": "Cream",
+      "price": 1399,
+      "weight": "183g"
+    },
+    {
+      "id": 5,
+      "brand": "Samsung",
+      "model": "Galaxy Z Fold 4",
+      "year": 2023,
+      "color": "Phantom Green",
+      "price": 1899,
+      "weight": "279g"
+    },
+    {
+      "id": 6,
+      "brand": "Samsung",
+      "model": "Galaxy A52s",
+      "year": 2022,
+      "color": "Awesome White",
+      "price": 499,
+      "weight": "189g"
+    },
+    {
+      "id": 7,
+      "brand": "Samsung",
+      "model": "Galaxy A72",
+      "year": 2022,
+      "color": "Awesome Blue",
+      "price": 599,
+      "weight": "203g"
+    },
+    {
+      "id": 8,
+      "brand": "Samsung",
+      "model": "Galaxy M32",
+      "year": 2023,
+      "color": "Black",
+      "price": 249,
+      "weight": "196g"
+    },
+    {
+      "id": 9,
+      "brand": "Samsung",
+      "model": "Galaxy F42 5G",
+      "year": 2022,
+      "color": "Denim Blue",
+      "price": 349,
+      "weight": "203g"
+    },
+    {
+      "id": 10,
+      "brand": "Samsung",
+      "model": "Galaxy Xcover 5",
+      "year": 2023,
+      "color": "Graphite",
+      "price": 349,
+      "weight": "179g"
+    }
+  ]  

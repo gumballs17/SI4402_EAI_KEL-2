@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "name": "Samsung Store Senayan",
+      "location": "Jakarta",
+      "address": "Jl. Asia Afrika No.8, Gelora, Tanah Abang, Jakarta Pusat 10270",
+      "phone": "(021) 12345678",
+      "email": "senayan@store.com",
+      "opening_hours": "Senin - Minggu: 10:00 - 22:00"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Store Pondok Indah",
+      "location": "Jakarta",
+      "address": "Pondok Indah Mall 2, Jl. Metro Pondok Indah, Pondok Indah, Jakarta Selatan 12310",
+      "phone": "(021) 98765432",
+      "email": "pondokindah@store.com",
+      "opening_hours": "Senin - Minggu: 10:00 - 22:00"
+    },
+    {
+      "id": 3,
+      "name": "Samsung Store Mall Kelapa Gading",
+      "location": "Jakarta",
+      "address": "Mall Kelapa Gading 3, Jl. Bulevar Kelapa Gading, Kelapa Gading, Jakarta Utara 14240",
+      "phone": "(021) 55555555",
+      "email": "kelapagading@store.com",
+      "opening_hours": "Senin - Minggu: 10:00 - 22:00"
+    },
+    {
+      "id": 4,
+      "name": "Samsung Store Grand Indonesia",
+      "location": "Jakarta",
+      "address": "Grand Indonesia Shopping Town, Jl. M.H. Thamrin No.1, Menteng, Jakarta Pusat 10310",
+      "phone": "(021) 99999999",
+      "email": "grandindonesia@store.com",
+      "opening_hours": "Senin - Minggu: 10:00 - 22:00"
+    },
+    {
+      "id": 5,
+      "name": "Samsung Store Pacific Place",
+      "location": "Jakarta",
+      "address": "Pacific Place Mall, Jl. Jend. Sudirman No.Kav 52-53, Senayan, Jakarta Selatan 12190",
+      "phone": "(021) 77777777",
+      "email": "pacificplace@store.com",
+      "opening_hours": "Senin - Minggu: 10:00 - 22:00"
+    },
+    {
+      "id": 6,
+      "name": "Samsung Store Tunjungan Plaza",
+      "location": "Surabaya",
+      "address": "Tunjungan Plaza 6, Jl. Basuki Rahmat No.8-12, Embong Kaliasin, Genteng, Surabaya 60271",
+      "phone": "(031) 88888888",
+      "email": "tunjunganplaza@store.com",
+      "opening_hours": "Senin - Minggu: 10:00 - 22:00"
+    },
+    {
+      "id": 7,
+      "name": "Samsung Store Malioboro",
+      "location": "Yogyakarta",
+      "address": "Jl. Malioboro No.10, Sosromenduran, Gedong Tengen, Yogyakarta 55271",
+      "phone": "(0274) 1234567",
+      "email": "malioboro@store.com",
+      "opening_hours": "Senin - Minggu: 09:00 - 21:00"
+    },
+    {
+      "id": 8,
+      "name": "Samsung Store Cihampelas Walk",
+      "location": "Bandung",
+      "address": "Cihampelas Walk, Jl. Cihampelas No.160, Cipaganti, Coblong, Bandung 40131",
+      "phone": "(022) 22222222",
+      "email": "cihampelaswalk@store.com",
+      "opening_hours": "Senin - Minggu: 10:00 - 22:00"
+    },
+    {
+      "id": 9,
+      "name": "Samsung Store Ambarrukmo Plaza",
+      "location": "Yogyakarta",
+      "address": "Ambarrukmo Plaza, Jl. Laksda Adisucipto No. 80, Caturtunggal, Depok, Sleman, Yogyakarta 55281",
+      "phone": "(0274) 9876543",
+      "email": "ambarrukmoplaza@store.com",
+      "opening_hours": "Senin - Minggu: 10:00 - 22:00"
+    },
+    {
+      "id": 10,
+      "name": "Samsung Store Trans Studio Mall",
+      "location": "Makassar",
+      "address": "Trans Studio Mall, Jl. Metro Tanjung Bunga, Bumi Tamalanrea Permai, Tamalanrea, Makassar 90234",
+      "phone": "(0411) 11111111",
+      "email": "transstudiomall@store.com",
+      "opening_hours": "Senin - Minggu: 10:00 - 22:00"
+    }
+  ]
+  
