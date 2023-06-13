@@ -17,6 +17,7 @@
 ```
 
  Open New Terminal
+ This is where the application UI running
 ```bash
     php artisan serve
 ```
