@@ -16,7 +16,7 @@
     npm run toko
 ```
 
- Open New Terminal
+ Open New Terminal (This is where the application running)
 ```bash
     php artisan serve
 ```
