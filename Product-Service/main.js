@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
   res.send('API Product sedang berjalan');
 });
 
-// Endpoint untuk mendapatkan daftar pengguna
+// Endpoint untuk mendapatkan daftar product
 app.get('/api/product', (req, res) => {
   res.send(loadProduct());
 });

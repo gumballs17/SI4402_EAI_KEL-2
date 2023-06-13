@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
   res.send('API toko sedang berjalan');
 });
 
-// Endpoint untuk mendapatkan daftar pengguna
+// Endpoint untuk mendapatkan daftar toko
 app.get('/api/toko', (req, res) => {
   res.send(loadToko());
 });

@@ -5,18 +5,18 @@
     <form action="" method="post">
         @csrf
         <div class="mt-3">
-            <label for="origin">Kota Asal</label>
+            <label for="origin">Lokasi Toko</label>
             <select name="origin" id="origin" class="form-control" required>
-                <option value="">Pilih Kota Asal</option>
+                <option value="">Pilih Koto Toko</option>
                 @foreach ($cities as $city)
                 <option value="{{ $city['city_id'] }}">{{ $city['city_name'] }}</option>
                 @endforeach
             </select>
         </div>
         <div class="mt-3">
-            <label for="destination">Kota Tujuan</label>
+            <label for="destination">Kota Asal</label>
             <select name="destination" id="destination" class="form-control" required>
-                <option value="">Pilih Kota Tujuan</option>
+                <option value="">Pilih Kota Asal</option>
                 @foreach ($cities as $city)
                 <option value="{{ $city['city_id'] }}">{{ $city['city_name'] }}</option>
                 @endforeach
@@ -46,9 +46,9 @@
 
         <h6>
             <ul>
-                <li>Asal Kota : {{ $ongkir['origin_details']['city_name'] }}</li>
+                <li>Kota Toko    : {{ $ongkir['origin_details']['city_name'] }}</li>
                 <li>Kota Tujauan : {{ $ongkir['destination_details']['city_name'] }} </li>
-                <li>Berat Paket : {{ $ongkir['query']['weight'] }} gram</li>
+                <li>Berat Paket  : {{ $ongkir['query']['weight'] }} gram</li>
             </ul>
         </h6>
 
